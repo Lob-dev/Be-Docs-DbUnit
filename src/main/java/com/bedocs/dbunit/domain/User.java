@@ -60,4 +60,14 @@ public class User {
 		email = builder.email;
 		age = builder.age;
 	}
+
+	@Override
+	public String toString() {
+		return "User{" +
+				"id=" + id +
+				", name='" + name + '\'' +
+				", email='" + email + '\'' +
+				", age='" + age + '\'' +
+				'}';
+	}
 }

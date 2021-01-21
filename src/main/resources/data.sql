@@ -1,0 +1,10 @@
+INSERT INTO USER (NAME, EMAIL, AGE) VALUES ( 'Lob', 'lob@hello.world', '24');
+INSERT INTO USER (NAME, EMAIL, AGE) VALUES ( 'Lob', 'lob@hello.world', '24');
+INSERT INTO USER (NAME, EMAIL, AGE) VALUES ( 'Lob', 'lob@hello.world', '24');
+INSERT INTO USER (NAME, EMAIL, AGE) VALUES ( 'Lob', 'lob@hello.world', '24');
+INSERT INTO USER (NAME, EMAIL, AGE) VALUES ( 'Lob', 'lob@hello.world', '24');
+INSERT INTO USER (NAME, EMAIL, AGE) VALUES ( 'Lob', 'lob@hello.world', '24');
+INSERT INTO USER (NAME, EMAIL, AGE) VALUES ( 'Lob', 'lob@hello.world', '24');
+INSERT INTO USER (NAME, EMAIL, AGE) VALUES ( 'Lob', 'lob@hello.world', '24');
+INSERT INTO USER (NAME, EMAIL, AGE) VALUES ( 'Lob', 'lob@hello.world', '24');
+INSERT INTO USER (NAME, EMAIL, AGE) VALUES ( 'Lob', 'lob@hello.world', '24');
